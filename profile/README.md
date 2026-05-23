@@ -1,3 +1,7 @@
+| |
+|-----|
+|test|
+
 <div align="left">
   <table border="0" width="300px">
     <tr>
