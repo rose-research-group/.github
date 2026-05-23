@@ -1,7 +1,8 @@
-|‎ |
-|-----|
-|test|
-
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 <div align="left">
   <table border="0" width="300px">
     <tr>
