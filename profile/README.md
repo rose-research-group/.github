@@ -1,9 +1,9 @@
-<table width="400px">
+<table width="300px">
   <tr>
     <td>
-      <h3>Rose Research Group <br> @ the University of California, Irvine</h3>
+      |<h3>AI, Transcriptomics, and Imaging toolsets</h3>|
       <div align="left">
-      <img src="https://github.com/user-attachments/assets/ca774f1d-ac5b-44dd-ac0b-45986d55497a" width="400px" />
+      |<img src="https://github.com/user-attachments/assets/ca774f1d-ac5b-44dd-ac0b-45986d55497a" width="300px" />|
       </div>
     </td>
   </tr>
