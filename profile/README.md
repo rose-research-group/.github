@@ -4,7 +4,7 @@
       <td>
         <div align="center">
           <h3>AI, Omics, and Imaging tools <br> for biological discovery</h3> 
-          <img src="https://github.com/user-attachments/assets/ca774f1d-ac5b-44dd-ac0b-45986d55497a" width="300px" />
+          <img src="https://github.com/user-attachments/assets/ca774f1d-ac5b-44dd-ac0b-45986d55497a" width="300px" /> | <h3>test</h3>
         </div>
       </td>
     </tr>
