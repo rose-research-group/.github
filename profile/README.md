@@ -1,4 +1,5 @@
-  <table border: none !important; width="300px">
+  <div align="center">
+    <table border: none !important; width="300px">
     <tr>
       <td>
         <div align="center">
