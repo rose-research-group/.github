@@ -1,12 +1,3 @@
-  <div align="center">
-    <table border: none !important; width="300px">
-    <tr>
-      <td>
-        <div align="center">
-          <h3>AI, Omics, and Imaging tools <br> for biological discovery</h3> 
-          <img src="https://github.com/user-attachments/assets/ca774f1d-ac5b-44dd-ac0b-45986d55497a" width="300px" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+  <div align+"center">
+    <img src = "https://github.com/user-attachments/files/28171466/github.landing.page.image.pdf" width = "1000px" />
+  </div>
