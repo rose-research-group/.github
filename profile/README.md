@@ -1,4 +1,3 @@
-<style>
   <table border: none !important; width="300px">
     <tr>
       <td>
@@ -10,6 +9,3 @@
     </tr>
   </table>
 </div>
-</style>
-
-  
